@@ -1,4 +1,13 @@
-### Hi there 👋
+### Greetings 👋
+
+My name is S.S. Nishchay. I am a software developer and trainer.
+
+I live in Pune, India. I currently work for Hexagon, India.
+
+I have been building computational and embedded software for the last ten years, both as an employee in various firms as well as an independent consultant.
+I have also taught computer science and engineering courses and faculty development programs in various institutes.
+
+You can reach me at *nishchay.office@gmail.com*.
 
 <!--
 **falconer24/falconer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
