@@ -7,7 +7,7 @@ I live in Pune, India. I currently work for Hexagon, India.
 I have been building system software, computational and embedded software for the last ten years, both as an employee in various firms as well as an independent consultant.
 I have also taught computer science and engineering courses and faculty development programs in various institutes.
 
-On this page you can find some of my publicly available work. Some of my more advanced work is still under non-disclosure agreements, so I cannot upload that code here.
+On this page you can find some of my publicly available work i.e. my personal projects. Most of my professinoal projects are  under non-disclosure agreements.
 
 You can find my full resume [here](https://github.com/falconer24/falconer24/blob/1d553dae90c2779b35598f83a9e25283d98eadb4/cv_nishchay_mhatre_dec_2021.pdf)
 
