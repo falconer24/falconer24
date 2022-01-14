@@ -1,4 +1,4 @@
-### Please watch this space -- new uploads coming soon.
+### I am in the process of revising and updating some of my old code. Please watch this space -- new uploads coming soon.
 
 ### Greetings 👋
 
