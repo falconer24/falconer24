@@ -1,5 +1,3 @@
-### I am in the process of revising and updating some of my old code. Please watch this space -- new uploads coming soon.
-
 ### Greetings 👋
 
 My name is S.S. Nishchay. I am a software developer and trainer.
