@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-My name is S.S. Nishchay. I am a software developer and trainer.
+My name is S.S. Nishchay. I develop software and teach new engineers how to do the same.
 
 I live in Pune, India. I currently work for Hexagon, India.
 
