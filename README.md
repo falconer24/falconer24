@@ -9,7 +9,10 @@ I have also taught computer science and engineering courses and faculty developm
 
 On this page you can find some of my publicly available work i.e. my personal projects. Most of my professinoal projects are  under non-disclosure agreements.
 
-You can find my full resume [here](https://github.com/falconer24/falconer24/blob/1d553dae90c2779b35598f83a9e25283d98eadb4/cv_nishchay_mhatre_dec_2021.pdf)
+You can find my full resume [here](https://github.com/falconer24/falconer24/blob/ac71e5595bf15e178c6ab3e88fa4db61614c3f0f/cv_nishchay_mhatre_jan_2022.pdf)
+<!-- Old resume
+(https://github.com/falconer24/falconer24/blob/1d553dae90c2779b35598f83a9e25283d98eadb4/cv_nishchay_mhatre_dec_2021.pdf) 
+-->
 
 You can reach me at *nishchay.office@gmail.com*.
 
