@@ -2,7 +2,7 @@
 
 My name is S.S. Nishchay. I develop software and teach new engineers how to do the same.
 
-I live in Pune, India. I currently work for Hexagon, India.
+I live in Pune, India. I currently work for Hexagon.
 
 I have been building system software, computational and embedded software for the last ten years, both as an employee in various firms as well as an independent consultant.
 I have also taught computer science and engineering courses and faculty development programs in various institutes.
